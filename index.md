@@ -18,6 +18,4 @@
 
 ### 微信公众号
 
-<img src="https://faq.myhostadmin.net/Customercenter/UploadImages/question_tmp/2405/k6Qxepoc5741q4y5.jpg" alt="视博网络" style="zoom:80%;" />
-
-<img src="https://faq.myhostadmin.net/Customercenter/UploadImages/question_tmp/2405/X6yxepod4dc4g7.jpg" alt="视博web" style="zoom:80%;" />
+<img src="https://faq.myhostadmin.net/Customercenter/UploadImages/question_tmp/2405/k6Qxepoc5741q4y5.jpg" alt="视博网络" style="zoom:80%;" /><img src="https://faq.myhostadmin.net/Customercenter/UploadImages/question_tmp/2405/X6yxepod4dc4g7.jpg" alt="视博web" style="zoom:80%;" />
