@@ -7,7 +7,7 @@
 
 [菜鸟教程](https://www.runoob.com/)
 
-### 关于我
+### 关于
 
 [博客园](https://www.cnblogs.com/hool)
 
