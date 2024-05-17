@@ -4,7 +4,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://blog.shibowl.top/
+url: https://blog.shibowl.top
 date_format: "ordinal"
 title: Hello World!
 subtitle: "Hello World!"
