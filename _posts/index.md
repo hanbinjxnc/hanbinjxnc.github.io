@@ -1,3 +1,18 @@
+---
+layout: post
+title: 常用链接
+categories: [Links]
+tags: [links, a]
+description: 常用链接
+keywords: links
+mermaid: false
+sequence: false
+flow: false
+mathjax: false
+mindmap: false
+mindmap2: false
+---
+
 ## Hello World！
 ### 常用链接
 
