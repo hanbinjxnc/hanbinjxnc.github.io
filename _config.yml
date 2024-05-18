@@ -167,29 +167,29 @@ disqus:
     username: 
 # gitment 配置参考：https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: mzlogin
-    repo: blog-comments
+    owner: hanbinjxnc
+    repo: hanbinjxnc.github.io
     oauth:
         client_id: 
         client_secret: 
 # gitalk 配置参考：https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: mzlogin
-    repo: blog-comments
+    owner: hanbinjxnc
+    repo: hanbinjxnc.github.io
     clientID: 
     clientSecret: 
 # utterances 配置参考：https://utteranc.es/
 utterances:
-    repo: mzlogin/blog-comments
+    repo: hanbinjxnc/hanbinjxnc.github.io
 # beaudar 配置参考：https://beaudar.lipk.org/
 beaudar:
-    repo: mzlogin/blog-comments
+    repo: hanbinjxnc/hanbinjxnc.github.io
 # giscus 配置参考：https://giscus.app/zh-CN
 giscus:
-    repo: mzlogin/blog-comments
-    repo-id: 
+    repo: hanbinjxnc/hanbinjxnc.github.io
+    repo-id: MDEwOlJlcG9zaXRvcnkzMTMzMjA0MzQ=
     category: Announcements
-    category-id: 
+    category-id: DIC_kwDOEqzj8s4Cfc5l
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
