@@ -13,3 +13,11 @@
 - name: DONGChuan
   url: https://dongchuan.github.io/
   src: www
+
+- name: giscus讨论功能说明
+  url: https://giscus.app/zh-CN
+  src: www
+
+- name: giscus GitHub
+  url: https://github.com/giscus/giscus/blob/main/README.zh-CN.md
+  src: www
