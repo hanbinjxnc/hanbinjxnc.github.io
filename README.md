@@ -3,7 +3,7 @@
 这是我的GitHub博客，欢迎访问！
 
 [点击浏览博客](https://blog.shibowl.top/)
-<a href="https://blog.shibowl.top/" target="_blank">博讯博客</a>
+<a href="https://blog.shibowl.top/"  target="_blank">博讯博客</a>
 
 ## Welcome to GitHub Pages
 
