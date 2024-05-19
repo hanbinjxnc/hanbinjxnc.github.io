@@ -106,6 +106,10 @@ navs:
     href: /about/
     label: 关于
 
+  -
+    href: /donate/
+    label: 关于
+
 # ---------------- #
 #       RSS        #
 # ---------------- #
