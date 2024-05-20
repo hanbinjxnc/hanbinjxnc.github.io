@@ -87,7 +87,8 @@
 
 .site-header h1 a {
     white-space: nowrap;
-    color: #333
+    /* color: #333 */
+    color: #fff;
 }
 
 .site-header h1 a:hover {
