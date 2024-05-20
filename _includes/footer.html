@@ -46,7 +46,11 @@
       //  /* hljs.initHighlightingOnLoad(); */
       // });
     </script>
-
+    <style>
+      .geopattern{
+          background-color: {{ site.index.banner.background-color | default: '#4183c4'}};
+        }
+    </style>
     {% if site.components.fancybox.enabled %}
     <script src="https://fastly.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.umd.js"></script>
     <script>
@@ -149,11 +153,7 @@ $(document).ready(function(){
           width: 100%;
           height: 100%;
           background: rgba(255, 255, 255, 0.9);
-        }
-
-        .geopattern{
-          background-color: {{ site.index.banner.background-color | default: '#4183c4'}};
-        }
+        }        
     </style>
     <script>
         function fullScreen(nodeId) {
