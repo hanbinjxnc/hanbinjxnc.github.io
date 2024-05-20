@@ -134,7 +134,8 @@
     padding: 6px 10px 15px;
     margin-left: 1.25rem;
     font-size: 1rem;
-    color: #777
+    /* color: #777 */
+    color: rgba(255, 255, 255, .5);
 }
 
 .site-footer:after,.site-footer:before {
@@ -143,7 +144,8 @@
 }
 
 .site-header-nav-item:hover {
-    color: #333;
+    /* color: #333; */
+    color: #fff;
     text-decoration: none
 }
 
