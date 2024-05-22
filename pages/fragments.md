@@ -9,7 +9,7 @@ menu: 片段
 permalink: /fragments/
 ---
 
-> 零散的知识，简短的观点，作为片段汇集于此。
+> 片段知识
 
 {% assign tagliststr = '' %}
 {% for item in site.fragments %}
@@ -53,7 +53,7 @@ jQuery(function() {
     if (tag == undefined || tag === '') {
         return;
     }
-
+    
     $(".listing-item").each(function() {
         if ($(this).attr('tags').indexOf(tag) < 0) {
             $(this).css('display', 'none');
